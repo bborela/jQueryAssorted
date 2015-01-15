@@ -1,0 +1,2 @@
+# jQueryAssorted
+jQuery hacks
